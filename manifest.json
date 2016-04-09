@@ -4,7 +4,7 @@
   "name": "Facebook Feed Limiter",
   "description": "Limits your Facebook News Feed to roughly 10 items, which is something that you secretly always wanted.",
   "version": "0.0.1",
-  "browser_action": {
+  "page_action": {
     "default_icon": "icon.png"
   },
   "content_scripts": [
