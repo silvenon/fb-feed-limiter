@@ -1,0 +1,5 @@
+[id^=substream]:nth-child(n+10),
+[id^=substream]:nth-child(n+10) ~ [id^=more_pager_pagelet],
+[id^=substream]:nth-child(n+10) ~ .async_saving {
+  display: none;
+}
